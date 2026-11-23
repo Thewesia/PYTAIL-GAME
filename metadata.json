@@ -1,0 +1,6 @@
+{
+  "name": "PyTrail",
+  "description": "An interactive Python code-learning game where students program an autonomous rover through tactical grid puzzles using real Python syntax, loops, variables, conditionals, and functions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
